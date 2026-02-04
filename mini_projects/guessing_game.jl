@@ -1,11 +1,9 @@
 # a number  guessing game
 
-answer = rand(1:100)
-println("Guess a number between 1 and 100, press any key to quit: ")
-let guess_num
-    guessed = false
-    guess_count = 0
+let guess_count = 0, guessed = false, answer = rand(1:100)
+    println("Guess a number between 1 and 100, press any key to quit: ")
     while !guessed
+        guess_num = 0
         guess_str = readline()
         try
             guess_num = parse(Int64, guess_str)
@@ -13,6 +11,7 @@ let guess_num
             println("Ok, quitting the game. See you next time")
             Base.exit(0)
         end
+        guess_count += 1
         if guess_num == answer
             println("Bingo - you guessed the number")
             println("You guessed in $guess_count attempts")
@@ -22,6 +21,5 @@ let guess_num
         else
             println("Your guess is higher, try again : ")
         end
-        guess_count += 1
     end
 end
