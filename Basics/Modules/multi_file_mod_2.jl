@@ -1,0 +1,1 @@
+func_file_2() = println("Function from file 2");
