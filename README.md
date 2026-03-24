@@ -1,14 +1,29 @@
 # julia-practice
+
 For Practicing Julia Language
 
+## Inbox
+
+To be sorted into topics
+
+- <https://youtu.be/gzvn-hdlkUg?si=5f8MBECKhmQoHoe9>
+- <https://www.youtube.com/watch?v=lSGFAmXKIsE>
+- <https://www.youtube.com/watch?v=L47k2zjPU9s>
+- <https://www.youtube.com/watch?v=O6CF-UHArMs>
+- <https://www.youtube.com/watch?v=46hkaaDBgX4>
+- <https://www.youtube.com/watch?v=bndXPsRHPg0>
+
 ## Basics
+
 Ref for [PkgWtTests](./Basics/PkgWtTests/) - [Unit Testing | Programming](https://lazarusa.github.io/JuliaDocs/stdlib/Test#Working-with-Test-Sets)
 
 ## Resources
+
 [JuliaAcademy](https://juliaacademy.com/)
 [Tutorials](https://julialang.org/learning/tutorials/)
 
 ### Language Basics
+
 1. [Online Course - Julia Academy](https://juliaacademy.com/)
 2. [Online Course - Exercism](https://exercism.org/tracks/julia)
     - [My Solutions](https://github.com/agbizbuz/exercism-sync/tree/main/solutions/julia)
@@ -17,6 +32,7 @@ Ref for [PkgWtTests](./Basics/PkgWtTests/) - [Unit Testing | Programming](https:
 5. [Introduction | Julia language: a concise tutorial](https://syl1.gitbook.io/julia-language-a-concise-tutorial)
 
 ### Data Science, AI, ML
+
 1. [Book - Julia for Data Analysis](https://www.manning.com/books/julia-for-data-analysis)
 2. [Book - Julia Data Science](https://juliadatascience.io/)
 3. [Online Course - Julia for Optimization & Learning](https://juliateachingctu.github.io/Julia-for-Optimization-and-Learning/stable/)
@@ -26,14 +42,17 @@ Ref for [PkgWtTests](./Basics/PkgWtTests/) - [Unit Testing | Programming](https:
 7. [Flux – Elegant ML](https://fluxml.ai/)
 
 #### Image Processing & Machine Vision
+
 1. [JuliaImages](https://juliaimages.org/latest/)
 2. [testimage · TestImages.jl](https://testimages.juliaimages.org/stable/imagelist/#imagelist)
 
 ### Economics
+
 1. [Book - Using Julia for Introductory Econometrics](http://upfie.net/downloads/PDF/UJfIE_web.pdf)
 2. [Book - Quantitative Economics with Julia](https://julia.quantecon.org/intro.html)
 
 ### Mathematics
+
 1. [Graphical Linear Algebra](https://graphicallinearalgebra.net/)
 2. [AlgebraicJulia](https://www.algebraicjulia.org/#page-top)
 3. [Calculus with Julia](https://jverzani.github.io/CalculusWithJuliaNotes.jl/)
